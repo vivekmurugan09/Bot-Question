@@ -1,0 +1,3 @@
+Your Data Responsibilities: Follow the data classification policy, use
+strong passwords, report incidents, and complete all required security
+training.
