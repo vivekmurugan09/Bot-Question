@@ -1,0 +1,3 @@
+What is a Privileged Account? An account with elevated permissions
+beyond a standard user, like an administrator for systems or
+applications.

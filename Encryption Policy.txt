@@ -1,0 +1,2 @@
+Encryption Policy: Confidential data must be encrypted both when
+stored ("at rest") and when being sent ("in transit").

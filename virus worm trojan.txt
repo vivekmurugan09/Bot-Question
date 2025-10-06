@@ -1,0 +1,3 @@
+Virus vs. Worm vs. Trojan: A virus attaches to a file and needs user
+action. A worm self-replicates across networks, and a Trojan disguises
+itself as legitimate software.
