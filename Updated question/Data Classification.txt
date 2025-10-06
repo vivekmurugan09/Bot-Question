@@ -1,3 +1,0 @@
-Data Classification: It categorizes data (e.g., Public, Internal,
-Confidential) based on sensitivity to determine the required
-protection level.

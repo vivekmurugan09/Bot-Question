@@ -1,3 +1,0 @@
-Policy on Public Wi-Fi: Avoid it for sensitive work; if necessary,
-always connect through the corporate VPN for a secure, encrypted
-connection.

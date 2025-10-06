@@ -1,2 +1,0 @@
-Clicked Suspicious Link: Immediately disconnect from the network
-(Wi-Fi/Ethernet), run a virus scan, and contact the IT Service Desk.

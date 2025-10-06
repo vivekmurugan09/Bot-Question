@@ -1,3 +1,0 @@
-During a Security Breach: Follow your incident response training:
-report it immediately via the hottest and do not attempt to
-investigate yourself.

@@ -1,3 +1,0 @@
-Personal Device to Company Email: Check if your company has a "Bring
-Your Own Device" (BYOD) policy, which usually requires MDM enrollment
-for access.

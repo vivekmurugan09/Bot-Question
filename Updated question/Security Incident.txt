@@ -1,3 +1,0 @@
-What is a Security Incident? Any event that compromises the
-confidentiality, integrity, or availability of company information or
-systems.

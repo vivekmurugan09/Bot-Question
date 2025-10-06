@@ -1,3 +1,0 @@
-Request Azure DevOps API Keys: This is highly sensitive; submit a
-request with strong business justification, as it often requires
-security team approval.

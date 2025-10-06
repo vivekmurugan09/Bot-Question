@@ -1,2 +1,0 @@
-Policy on Bluetooth: Generally allowed, but devices must be set to
-non-discoverable mode to prevent unauthorized connection attempts.

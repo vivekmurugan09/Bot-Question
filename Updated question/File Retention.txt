@@ -1,3 +1,0 @@
-Email/File Retention: Follow the corporate data retention policy,
-which sets legal timeframes for keeping or deleting different data
-types.

@@ -1,3 +1,0 @@
-Trouble Connecting to VPN: Check your internet connection and verify
-you are using the correct VPN address; contact IT if the issue
-persists.
