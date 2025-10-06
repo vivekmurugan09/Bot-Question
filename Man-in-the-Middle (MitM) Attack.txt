@@ -1,0 +1,3 @@
+Man-in-the-Middle (MitM) Attack: An attacker secretly intercepts and
+relays communication between two parties who believe they are directly
+communicating.
