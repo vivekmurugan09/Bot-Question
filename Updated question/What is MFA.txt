@@ -1,0 +1,2 @@
+What is MFA? Multi-Factor Authentication adds a second verification
+step (e.g., a phone app code) beyond your password for account access.

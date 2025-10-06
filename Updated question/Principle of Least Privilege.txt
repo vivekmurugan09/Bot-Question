@@ -1,0 +1,2 @@
+Principle of Least Privilege: Users should only be granted the minimum
+levels of access necessary to perform their job functions.

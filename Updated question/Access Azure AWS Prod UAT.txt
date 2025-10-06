@@ -1,0 +1,3 @@
+Access Azure/AWS Prod/UAT: Request access via the cloud portal (e.g.,
+AWS SSO, Azure Entra ID) which requires manager and security approval.
+access

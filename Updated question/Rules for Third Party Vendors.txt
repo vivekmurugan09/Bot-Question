@@ -1,0 +1,3 @@
+Rules for Third-Party Vendors: Vendors must comply with our security
+policies, undergo risk assessments, and have signed agreements in
+place.
