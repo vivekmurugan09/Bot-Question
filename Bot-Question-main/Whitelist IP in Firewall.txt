@@ -1,0 +1,3 @@
+Whitelist IP in Firewall: Submit a firewall change request to the
+network team with the specific source/destination IPs, ports, and
+business justification.

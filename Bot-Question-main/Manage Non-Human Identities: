@@ -1,0 +1,3 @@
+Use dedicated service
+accounts/principals, regularly rotate their credentials, and assign
+minimal required permissions.

@@ -1,0 +1,2 @@
+Handle Confidential Info: Store it only in approved, secure locations
+and never send it via unencrypted email or unapproved cloud services.

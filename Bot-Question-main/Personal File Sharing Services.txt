@@ -1,0 +1,3 @@
+Personal File-Sharing Services: Generally not allowed for company
+data instead use approved corporate solutions like SharePoint or OneDrive for
+Business.
