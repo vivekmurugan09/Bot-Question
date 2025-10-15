@@ -1,0 +1,2 @@
+Check Device Encryption: On Windows, check "Device Encryption" in
+settings; on Mac, check "FileVault." Contact IT if unsure.

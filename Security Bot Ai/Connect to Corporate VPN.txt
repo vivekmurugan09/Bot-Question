@@ -1,0 +1,2 @@
+Connect to Corporate VPN: Use the VPN client installed on your device
+with your corporate username, password, and MFA to connect.

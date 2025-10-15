@@ -1,0 +1,2 @@
+Personal Smart Device on Wi-Fi: Personal devices are not allowed on
+the secure corporate Wi-Fi to reduce the risk of network compromise.

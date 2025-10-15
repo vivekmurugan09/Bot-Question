@@ -1,0 +1,3 @@
+Use strong authentication (OAuth, API keys),
+encrypt traffic (HTTPS), and implement rate limiting and input
+validation.

@@ -1,0 +1,2 @@
+Corporate vs. Guest Network: The corporate network is for employees
+and secured devices; the guest network is isolated for visitors.

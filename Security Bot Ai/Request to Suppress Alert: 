@@ -1,0 +1,2 @@
+If an alert is a false positive, report it
+to the SOC with details so they can tune the detection logic.

@@ -1,0 +1,2 @@
+Secure Access from Home: The most secure method is to use a
+company-issued device and connect through the corporate VPN.

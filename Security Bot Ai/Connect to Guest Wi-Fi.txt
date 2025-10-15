@@ -1,0 +1,2 @@
+Connect to Guest Wi-Fi: Select the company's guest network, which will
+prompt you to accept terms or request a temporary access code.

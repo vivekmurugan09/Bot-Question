@@ -1,0 +1,1 @@
+AC (Alternating Current) changes direction periodically, while DC (Direct Current) flows in one direction only.

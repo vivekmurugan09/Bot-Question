@@ -1,0 +1,2 @@
+Policy for Cloud Data Storage: Data must be stored in company-approved
+cloud services (e.g., Microsoft 365) and classified correctly.

@@ -1,0 +1,2 @@
+Leaving Company/Role: Return all company assets and ensure all access
+is revoked by HR and IT as part of the official offboarding process.

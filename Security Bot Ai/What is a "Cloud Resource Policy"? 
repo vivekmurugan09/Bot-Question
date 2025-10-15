@@ -1,0 +1,3 @@
+Automated rules that enforce
+security standards (e.g., "no public storage") by blocking
+non-compliant deployments.

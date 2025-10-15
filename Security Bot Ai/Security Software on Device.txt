@@ -1,0 +1,3 @@
+Security Software on Device: Corporate devices typically have
+antivirus, firewall, and endpoint detection and response (EDR)
+software.

@@ -1,0 +1,3 @@
+Report Phishing: Use your email's "Report Phishing" button or forward
+the email to the dedicated security mailbox (e.g.,
+security@company.com).

@@ -1,0 +1,3 @@
+Request Prod Repo in Azure DevOps: Submit a ticket to the DevOps team
+specifying the repository name and your required permission level
+(e.g., read, write).

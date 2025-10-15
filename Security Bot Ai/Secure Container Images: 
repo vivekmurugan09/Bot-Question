@@ -1,0 +1,3 @@
+Scan images for vulnerabilities in the CI/CD
+pipeline, use minimal base images, and sign images to ensure
+integrity.

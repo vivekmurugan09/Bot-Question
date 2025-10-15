@@ -1,0 +1,2 @@
+Policy for Remote Wipe: The company can remotely wipe a device if it
+is lost, stolen, or when an employee leaves the organization.

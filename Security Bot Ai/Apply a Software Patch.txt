@@ -1,0 +1,2 @@
+Apply a Software Patch: For corporate devices, patches are often
+deployed automatically; you may just need to restart your computer.

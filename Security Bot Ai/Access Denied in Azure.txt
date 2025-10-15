@@ -1,0 +1,3 @@
+"Access Denied" in Azure: Your account lacks the necessary permissions
+for that resource; contact the resource owner or your cloud
+administrator.
